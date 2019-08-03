@@ -114,7 +114,7 @@ Mat getShadow(Mat img)
       }
     }
   }
-  return shadow;
+  
 }
 
 Mat improveShadow(Mat img, Mat shadow)
